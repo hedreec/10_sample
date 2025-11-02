@@ -1,3 +1,4 @@
+// mockのところでつまづく
 import PropertyCard from '../components/PropertyCard';
 
 const mock = [
